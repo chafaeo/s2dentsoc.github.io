@@ -1,0 +1,38 @@
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+}
+
+#job-feed{
+	box-shadow:0 1px 2px 0 rgba(0,0,0,0.16),0 2px 5px 0 rgba(0,0,0,0.12);
+	color:#494949;
+}
+
+.title{
+	color:#305ca0;
+}
+
+#address{
+	font-size:13px;
+	margin-bottom:10px;
+}
+
+#time{
+	margin-top:15px;
+	font-size:11px;
+}
+
+#slots{
+	margin-top:10px;
+	font-style: italic;
+	font-size:14px;
+}
+
+#job-container{
+	color:#494949;
+}

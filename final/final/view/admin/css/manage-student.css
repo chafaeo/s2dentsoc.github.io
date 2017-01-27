@@ -1,0 +1,9 @@
+#current-student {
+	background-color: skyblue;
+	padding: 20px;
+	text-align: center;
+}
+table.manage-student {
+	-webkit-box-shadow: 0 6px 12px rgba(0,0,0,.100);
+    box-shadow: 0 6px 12px rgba(0,0,0,.100);
+}

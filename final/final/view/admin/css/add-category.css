@@ -1,0 +1,32 @@
+.add-category {
+	width: 50%;
+	margin: auto;
+	margin-top: 10%;
+	margin-bottom: 30%;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.15);
+	border: 1px solid #adadad;
+}
+#category-heading {
+	text-align: center; 
+	padding: 20px; 
+	margin: 0px; 
+	background-color: #5cb85c;
+}
+.add-category form {
+	padding: 20px;
+}
+#btn-back, button#add, button#add_skill, a#btn-add-new, a#add, a#update {
+	border-radius: 0px;
+}
+.spinner {
+    position: fixed;
+    top: 45%;
+    left: 58%;
+    margin-left: -50px; /* half width of the spinner gif */
+    margin-top: -50px; /* half height of the spinner gif */
+    text-align:center;
+    z-index:1234;
+    overflow: auto;
+    width: 100px; /* width of the spinner gif */
+    height: 102px; /*hight of the spinner gif +2px to fix IE8 issue */
+}
